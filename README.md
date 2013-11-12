@@ -19,4 +19,4 @@ After clicking on 'install', refresh the page. The script is now up and running.
 
 ## More information
 
-This script was first published on <a href="http://richard.parnaby-king.co.uk/2012/03/greasemonkey-april-fools-script/">http://richard.parnaby-king.co.uk/</a> on March 27, 2012.
+This script was first published on <a href="http://richard.parnaby-king.co.uk/2012/03/greasemonkey-april-fools-script/" target="_blank">http://richard.parnaby-king.co.uk/</a> on March 27, 2012.
