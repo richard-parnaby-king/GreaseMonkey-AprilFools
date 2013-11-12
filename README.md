@@ -11,7 +11,7 @@ GreaseMonkey script to randomly insert a character after several keystrokes
 
 Assuming the browser to be affected already has GreaseMonkey installed.
 
-Click on this <a href="https://github.com/richard-parnaby-king/GreaseMonkey-AprilFools/blob/master/April_Fools.user.js" title="GreaseMonkey April Fools Script" target="_blank">April Fools Script</a> and GreaseMonkey will automatically pop up asking if you want to install it:
+Click on this <a href="https://github.com/richard-parnaby-king/GreaseMonkey-AprilFools/raw/master/April_Fools.user.js" title="GreaseMonkey April Fools Script" target="_blank">April Fools Script</a> and GreaseMonkey will automatically pop up asking if you want to install it:
 <a href="http://richard.parnaby-king.co.uk/wp-content/uploads/2012/03/GreaseMonkeyAprilFools.jpg"><img src="http://richard.parnaby-king.co.uk/wp-content/uploads/2012/03/GreaseMonkeyAprilFools-283x300.jpg" alt="GreaseMonkey April Fools" title="GreaseMonkeyAprilFools" width="283" height="300" class="aligncenter size-medium wp-image-135" /></a>
 
 After clicking on 'install', refresh the page. The script is now up and running. In any text editable component in the browser, after 100 to 150 characters (by default -this is editable in the script) a random character will be inserted. Now sit back and watch in humour as your friend / work colleague / enemy attempts to work out why they are suddenly so rubbish at sepelling ;)
